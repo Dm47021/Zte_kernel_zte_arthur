@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/Kconfig
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/compat.c
+END
+nonet.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/nonet.c
+END
+sysctl_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/sysctl_net.c
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/socket.c
+END
+TUNABLE
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/TUNABLE
+END
+activity_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/activity_stats.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/net/Makefile
+END

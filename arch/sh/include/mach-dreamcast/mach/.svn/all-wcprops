@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-dreamcast/mach
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-dreamcast/mach/pci.h
+END
+maple.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-dreamcast/mach/maple.h
+END
+sysasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-dreamcast/mach/sysasic.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-dreamcast/mach/dma.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx833x/stb22x
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx833x/stb22x/board.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx833x/stb22x/Makefile
+END

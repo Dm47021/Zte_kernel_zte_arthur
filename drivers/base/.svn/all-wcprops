@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/Kconfig
+END
+firmware_class.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/firmware_class.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/init.c
+END
+class.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/class.c
+END
+attribute_container.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/attribute_container.c
+END
+dma-coherent.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/dma-coherent.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/memory.c
+END
+hypervisor.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/hypervisor.c
+END
+firmware.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/firmware.c
+END
+isa.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/isa.c
+END
+topology.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/topology.c
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/map.c
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/sys.c
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/base.h
+END
+transport_class.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/transport_class.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/platform.c
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/module.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/node.c
+END
+iommu.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/iommu.c
+END
+dd.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/dd.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/cpu.c
+END
+devtmpfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/devtmpfs.c
+END
+devres.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/devres.c
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/core.c
+END
+bus.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/bus.c
+END
+dma-mapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/dma-mapping.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/driver.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/base/Makefile
+END

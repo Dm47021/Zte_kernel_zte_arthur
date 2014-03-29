@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000
+END
+ixp2400_tx.ucode
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixp2400_tx.ucode
+END
+ixp2400-msf.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixp2400-msf.h
+END
+ixpdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixpdev.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/Kconfig
+END
+pm3386.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/pm3386.c
+END
+ixpdev_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixpdev_priv.h
+END
+ixpdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixpdev.h
+END
+ixp2400_rx.uc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixp2400_rx.uc
+END
+pm3386.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/pm3386.h
+END
+ixp2400_tx.uc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixp2400_tx.uc
+END
+caleb.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/caleb.c
+END
+caleb.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/caleb.h
+END
+ixp2400-msf.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixp2400-msf.c
+END
+ixp2400_rx.ucode
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/ixp2400_rx.ucode
+END
+enp2611.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/enp2611.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/net/ixp2000/Makefile
+END

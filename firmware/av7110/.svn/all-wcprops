@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/av7110
+END
+bootcode.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/av7110/bootcode.bin.ihex
+END
+Boot.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/av7110/Boot.S
+END

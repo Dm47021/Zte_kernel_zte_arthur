@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block
+END
+capability.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/capability.txt
+END
+deadline-iosched.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/deadline-iosched.txt
+END
+ioprio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/ioprio.txt
+END
+switching-sched.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/switching-sched.txt
+END
+data-integrity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/data-integrity.txt
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/00-INDEX
+END
+barrier.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/barrier.txt
+END
+request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/request.txt
+END
+queue-sysfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/queue-sysfs.txt
+END
+stat.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/stat.txt
+END
+biodoc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/block/biodoc.txt
+END

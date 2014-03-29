@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/Kconfig
+END
+Kconfig.debug
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/Kconfig.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/Makefile
+END
+relocs_check.pl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/relocs_check.pl
+END

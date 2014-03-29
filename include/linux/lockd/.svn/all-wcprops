@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd
+END
+bind.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd/bind.h
+END
+lockd.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd/lockd.h
+END
+xdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd/xdr.h
+END
+xdr4.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd/xdr4.h
+END
+share.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd/share.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd/debug.h
+END
+nlm.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/lockd/nlm.h
+END

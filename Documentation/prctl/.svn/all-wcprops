@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/prctl
+END
+disable-tsc-ctxt-sw-stress-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/prctl/disable-tsc-ctxt-sw-stress-test.c
+END
+disable-tsc-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/prctl/disable-tsc-test.c
+END
+disable-tsc-on-off-stress-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/prctl/disable-tsc-on-off-stress-test.c
+END

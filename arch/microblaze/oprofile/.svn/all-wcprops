@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/microblaze/oprofile
+END
+microblaze_oprofile.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/microblaze/oprofile/microblaze_oprofile.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/microblaze/oprofile/Makefile
+END

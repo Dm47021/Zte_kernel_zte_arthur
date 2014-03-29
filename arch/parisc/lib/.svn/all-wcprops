@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib
+END
+bitops.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/bitops.c
+END
+checksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/checksum.c
+END
+iomap.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/iomap.c
+END
+lusercopy.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/lusercopy.S
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/io.c
+END
+memcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/memcpy.c
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/memset.c
+END
+fixup.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/fixup.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/parisc/lib/Makefile
+END

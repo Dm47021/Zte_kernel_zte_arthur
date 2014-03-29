@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/dir.c
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/inode.c
+END
+super.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/super.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/Kconfig
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/file.c
+END
+efs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/efs.h
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/symlink.c
+END
+namei.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/namei.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/efs/Makefile
+END

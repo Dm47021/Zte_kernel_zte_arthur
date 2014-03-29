@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/install.sh
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/head.S
+END
+vmlinux.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/vmlinux.lds.S
+END
+vmlinux.scr
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/vmlinux.scr
+END
+boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/boot.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/Makefile
+END
+m32r_sio.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/m32r/boot/compressed/m32r_sio.c
+END

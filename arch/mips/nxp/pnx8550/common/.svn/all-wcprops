@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/time.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/setup.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/reset.c
+END
+proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/proc.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/platform.c
+END
+int.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/int.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/nxp/pnx8550/common/prom.c
+END

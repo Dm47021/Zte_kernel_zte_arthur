@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci
+END
+broadcom_bus.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/broadcom_bus.c
+END
+mmconfig_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/mmconfig_32.c
+END
+mmconfig-shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/mmconfig-shared.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/init.c
+END
+legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/legacy.c
+END
+mmconfig_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/mmconfig_64.c
+END
+bus_numa.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/bus_numa.c
+END
+direct.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/direct.c
+END
+amd_bus.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/amd_bus.c
+END
+visws.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/visws.c
+END
+early.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/early.c
+END
+acpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/acpi.c
+END
+bus_numa.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/bus_numa.h
+END
+pcbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/pcbios.c
+END
+mrst.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/mrst.c
+END
+numaq_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/numaq_32.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/common.c
+END
+i386.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/i386.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/irq.c
+END
+fixup.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/fixup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/Makefile
+END
+olpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/x86/pci/olpc.c
+END

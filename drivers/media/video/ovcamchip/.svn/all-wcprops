@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip
+END
+ovcamchip_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/ovcamchip_priv.h
+END
+ovcamchip_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/ovcamchip_core.c
+END
+ov6x20.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/ov6x20.c
+END
+ov7x10.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/ov7x10.c
+END
+ov6x30.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/ov6x30.c
+END
+ov7x20.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/ov7x20.c
+END
+ov76be.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/ov76be.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/ovcamchip/Makefile
+END

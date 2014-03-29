@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/serial/jsm
+END
+jsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/serial/jsm/jsm.h
+END
+jsm_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/serial/jsm/jsm_driver.c
+END
+jsm_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/serial/jsm/jsm_tty.c
+END
+jsm_neo.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/serial/jsm/jsm_neo.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/serial/jsm/Makefile
+END

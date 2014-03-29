@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc
+END
+fc_rport.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_rport.c
+END
+fc_exch.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_exch.c
+END
+fc_fcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_fcp.c
+END
+fc_elsct.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_elsct.c
+END
+fc_frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_frame.c
+END
+fc_npiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_npiv.c
+END
+fc_libfc.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_libfc.c
+END
+fc_lport.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_lport.c
+END
+fc_disc.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_disc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/Makefile
+END
+fc_libfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/scsi/libfc/fc_libfc.h
+END

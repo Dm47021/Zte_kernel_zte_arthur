@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/mfd/wm8994
+END
+pdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/mfd/wm8994/pdata.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/mfd/wm8994/gpio.h
+END
+registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/mfd/wm8994/registers.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/include/linux/mfd/wm8994/core.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial
+END
+specialix.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/specialix.txt
+END
+moxa-smartio
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/moxa-smartio
+END
+riscom8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/riscom8.txt
+END
+digiepca.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/digiepca.txt
+END
+stallion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/stallion.txt
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/00-INDEX
+END
+rocket.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/rocket.txt
+END
+computone.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/computone.txt
+END
+sx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/sx.txt
+END
+driver
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/driver
+END
+README.cycladesZ
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/README.cycladesZ
+END
+tty.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/serial/tty.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/powerpc/dts-bindings/4xx
+END
+ppc440spe-adma.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/powerpc/dts-bindings/4xx/ppc440spe-adma.txt
+END
+emac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/powerpc/dts-bindings/4xx/emac.txt
+END
+ndfc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/powerpc/dts-bindings/4xx/ndfc.txt
+END
+reboot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/powerpc/dts-bindings/4xx/reboot.txt
+END

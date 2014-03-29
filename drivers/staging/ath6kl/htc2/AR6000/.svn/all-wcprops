@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/htc2/AR6000
+END
+ar6k_gmbox_hciuart.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/htc2/AR6000/ar6k_gmbox_hciuart.c
+END
+ar6k_gmbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/htc2/AR6000/ar6k_gmbox.c
+END
+ar6k.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/htc2/AR6000/ar6k.c
+END
+ar6k_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/htc2/AR6000/ar6k_events.c
+END
+ar6k.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/htc2/AR6000/ar6k.h
+END

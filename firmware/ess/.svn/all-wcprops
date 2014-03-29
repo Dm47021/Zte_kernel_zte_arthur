@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/ess
+END
+maestro3_assp_kernel.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/ess/maestro3_assp_kernel.fw.ihex
+END
+maestro3_assp_minisrc.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/ess/maestro3_assp_minisrc.fw.ihex
+END

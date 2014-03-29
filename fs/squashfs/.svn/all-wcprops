@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/inode.c
+END
+super.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/super.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/Kconfig
+END
+zlib_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/zlib_wrapper.c
+END
+squashfs_fs_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/squashfs_fs_i.h
+END
+squashfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/squashfs.h
+END
+xattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/xattr.c
+END
+fragment.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/fragment.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/cache.c
+END
+decompressor.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/decompressor.c
+END
+xattr.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/xattr.h
+END
+decompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/decompressor.h
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/dir.c
+END
+squashfs_fs_sb.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/squashfs_fs_sb.h
+END
+xattr_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/xattr_id.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/file.c
+END
+export.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/export.c
+END
+symlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/symlink.c
+END
+namei.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/namei.c
+END
+squashfs_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/squashfs_fs.h
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/block.c
+END
+id.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/id.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/squashfs/Makefile
+END

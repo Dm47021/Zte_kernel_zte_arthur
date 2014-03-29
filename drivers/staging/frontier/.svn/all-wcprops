@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier/Kconfig
+END
+alphatrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier/alphatrack.h
+END
+tranzport.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier/tranzport.c
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier/TODO
+END
+alphatrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier/alphatrack.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/frontier/README
+END

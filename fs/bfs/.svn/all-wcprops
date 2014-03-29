@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/bfs
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/bfs/dir.c
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/bfs/inode.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/bfs/Kconfig
+END
+bfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/bfs/bfs.h
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/bfs/file.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/fs/bfs/Makefile
+END

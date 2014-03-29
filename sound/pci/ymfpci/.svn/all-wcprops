@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/sound/pci/ymfpci
+END
+ymfpci.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/sound/pci/ymfpci/ymfpci.c
+END
+ymfpci_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/sound/pci/ymfpci/ymfpci_main.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/sound/pci/ymfpci/Makefile
+END

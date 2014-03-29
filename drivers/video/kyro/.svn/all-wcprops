@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro
+END
+STG4000VTG.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/STG4000VTG.c
+END
+STG4000OverlayDevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/STG4000OverlayDevice.c
+END
+STG4000Reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/STG4000Reg.h
+END
+STG4000InitDevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/STG4000InitDevice.c
+END
+fbdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/fbdev.c
+END
+STG4000Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/STG4000Interface.h
+END
+STG4000Ramdac.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/STG4000Ramdac.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/kyro/Makefile
+END

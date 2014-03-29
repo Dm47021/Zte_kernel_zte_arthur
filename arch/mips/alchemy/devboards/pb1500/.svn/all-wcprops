@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/alchemy/devboards/pb1500
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/alchemy/devboards/pb1500/platform.c
+END
+board_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/alchemy/devboards/pb1500/board_setup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/alchemy/devboards/pb1500/Makefile
+END

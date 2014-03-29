@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/ABI/obsolete
+END
+o2cb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/ABI/obsolete/o2cb
+END
+sysfs-bus-usb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/ABI/obsolete/sysfs-bus-usb
+END
+dv1394
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/ABI/obsolete/dv1394
+END
+sysfs-class-rfkill
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/ABI/obsolete/sysfs-class-rfkill
+END

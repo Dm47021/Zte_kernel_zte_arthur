@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/include/asm/mach-loongson/cs5536
+END
+cs5536_vsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/include/asm/mach-loongson/cs5536/cs5536_vsm.h
+END
+cs5536_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/include/asm/mach-loongson/cs5536/cs5536_pci.h
+END
+cs5536_mfgpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/include/asm/mach-loongson/cs5536/cs5536_mfgpt.h
+END
+cs5536.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/mips/include/asm/mach-loongson/cs5536/cs5536.h
+END

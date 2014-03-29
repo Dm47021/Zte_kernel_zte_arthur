@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/hif/sdio/linux_sdio/src
+END
+hif.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/hif/sdio/linux_sdio/src/hif.c
+END
+hif_scatter.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/hif/sdio/linux_sdio/src/hif_scatter.c
+END

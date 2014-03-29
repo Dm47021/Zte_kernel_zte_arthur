@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rar_register
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rar_register/Kconfig
+END
+rar_register.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rar_register/rar_register.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rar_register/Makefile
+END
+rar_register.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rar_register/rar_register.h
+END

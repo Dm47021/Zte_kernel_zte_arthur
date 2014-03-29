@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed
+END
+decompress_v32.lds
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed/decompress_v32.lds
+END
+head_v10.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed/head_v10.S
+END
+decompress_v10.lds
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed/decompress_v10.lds
+END
+head_v32.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed/head_v32.S
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed/misc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/boot/compressed/README
+END

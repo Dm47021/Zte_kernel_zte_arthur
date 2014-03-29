@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/Kconfig
+END
+bttvp.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttvp.h
+END
+bttv-driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-driver.c
+END
+bttv-cards.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-cards.c
+END
+bttv-if.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-if.c
+END
+bttv-gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-gpio.c
+END
+bttv-input.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-input.c
+END
+bttv-audio-hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-audio-hook.c
+END
+bttv-risc.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-risc.c
+END
+bt848.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bt848.h
+END
+bttv-audio-hook.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-audio-hook.h
+END
+bttv.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv.h
+END
+bttv-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-i2c.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/Makefile
+END
+bttv-vbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/bt8xx/bttv-vbi.c
+END

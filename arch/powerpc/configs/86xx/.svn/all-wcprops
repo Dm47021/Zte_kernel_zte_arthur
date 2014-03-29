@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/configs/86xx
+END
+gef_sbc310_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/configs/86xx/gef_sbc310_defconfig
+END
+mpc8610_hpcd_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/configs/86xx/mpc8610_hpcd_defconfig
+END
+gef_ppc9a_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/configs/86xx/gef_ppc9a_defconfig
+END
+sbc8641d_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/configs/86xx/sbc8641d_defconfig
+END
+gef_sbc610_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/configs/86xx/gef_sbc610_defconfig
+END
+mpc8641_hpcn_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/configs/86xx/mpc8641_hpcn_defconfig
+END

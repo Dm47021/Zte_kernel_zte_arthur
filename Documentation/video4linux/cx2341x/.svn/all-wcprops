@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x
+END
+fw-memory.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-memory.txt
+END
+fw-calling.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-calling.txt
+END
+README.hm12
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/README.hm12
+END
+fw-decoder-api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-decoder-api.txt
+END
+fw-osd-api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-osd-api.txt
+END
+fw-dma.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-dma.txt
+END
+fw-decoder-regs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-decoder-regs.txt
+END
+README.vbi
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/README.vbi
+END
+fw-upload.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-upload.txt
+END
+fw-encoder-api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/video4linux/cx2341x/fw-encoder-api.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/resource_tracker
+END
+vcd_res_tracker_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/resource_tracker/vcd_res_tracker_api.h
+END
+vcd_res_tracker.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/resource_tracker/vcd_res_tracker.c
+END
+vcd_res_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/resource_tracker/vcd_res_tracker.h
+END

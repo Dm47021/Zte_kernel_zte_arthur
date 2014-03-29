@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134
+END
+saa7134-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-i2c.c
+END
+saa7134-empress.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-empress.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/Kconfig
+END
+saa7134-vbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-vbi.c
+END
+saa7134-alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-alsa.c
+END
+saa7134-reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-reg.h
+END
+saa7134-ts.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-ts.c
+END
+saa7134-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-core.c
+END
+saa7134-cards.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-cards.c
+END
+saa7134-input.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-input.c
+END
+saa6752hs.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa6752hs.c
+END
+saa7134-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-video.c
+END
+saa7134.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134.h
+END
+saa7134-tvaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-tvaudio.c
+END
+saa7134-dvb.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/saa7134-dvb.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/media/video/saa7134/Makefile
+END

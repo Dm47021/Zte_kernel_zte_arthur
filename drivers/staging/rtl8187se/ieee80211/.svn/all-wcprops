@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211
+END
+ieee80211_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_tx.c
+END
+ieee80211_crypt_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt_wep.c
+END
+ieee80211_softmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_softmac.c
+END
+dot11d.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/dot11d.h
+END
+ieee80211_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_wx.c
+END
+ieee80211_crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt.c
+END
+ieee80211_crypt_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt_ccmp.c
+END
+ieee80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211.h
+END
+ieee80211_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_module.c
+END
+ieee80211_crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt.h
+END
+ieee80211_crypt_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt_tkip.c
+END
+dot11d.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/dot11d.c
+END
+ieee80211_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_rx.c
+END
+ieee80211_softmac_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_softmac_wx.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-fs/mach
+END
+pinmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-fs/mach/pinmux.h
+END
+startup.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-fs/mach/startup.inc
+END
+arbiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-fs/mach/arbiter.h
+END

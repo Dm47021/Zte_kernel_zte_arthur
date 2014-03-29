@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd
+END
+drbd-connection-state-overview.dot
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd/drbd-connection-state-overview.dot
+END
+node-states-8.dot
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd/node-states-8.dot
+END
+disk-states-8.dot
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd/disk-states-8.dot
+END
+DRBD-data-packets.svg
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd/DRBD-data-packets.svg
+END
+conn-states-8.dot
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd/conn-states-8.dot
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd/README.txt
+END
+DRBD-8.3-data-packets.svg
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/blockdev/drbd/DRBD-8.3-data-packets.svg
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap
+END
+fifo_icap.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap/fifo_icap.c
+END
+fifo_icap.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap/fifo_icap.h
+END
+buffer_icap.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap/buffer_icap.c
+END
+xilinx_hwicap.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap/xilinx_hwicap.c
+END
+buffer_icap.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap/buffer_icap.h
+END
+xilinx_hwicap.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap/xilinx_hwicap.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/char/xilinx_hwicap/Makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/samples/tracepoints
+END
+tracepoint-probe-sample2.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/samples/tracepoints/tracepoint-probe-sample2.c
+END
+tp-samples-trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/samples/tracepoints/tp-samples-trace.h
+END
+tracepoint-sample.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/samples/tracepoints/tracepoint-sample.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/samples/tracepoints/Makefile
+END
+tracepoint-probe-sample.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/samples/tracepoints/tracepoint-probe-sample.c
+END

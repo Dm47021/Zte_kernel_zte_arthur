@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl
+END
+wakeup-latency.pl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/wakeup-latency.pl
+END
+rw-by-pid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/rw-by-pid.pl
+END
+rwtop.pl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/rwtop.pl
+END
+rw-by-file.pl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/rw-by-file.pl
+END
+failed-syscalls.pl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/failed-syscalls.pl
+END
+check-perf-trace.pl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/check-perf-trace.pl
+END
+workqueue-stats.pl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/workqueue-stats.pl
+END

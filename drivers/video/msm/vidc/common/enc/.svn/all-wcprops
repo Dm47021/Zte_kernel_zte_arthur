@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/msm/vidc/common/enc
+END
+venc_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/msm/vidc/common/enc/venc_internal.c
+END
+venc.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/msm/vidc/common/enc/venc.c
+END
+venc_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/video/msm/vidc/common/enc/venc_internal.h
+END

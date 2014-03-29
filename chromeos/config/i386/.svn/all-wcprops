@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/i386
+END
+config.common.i386
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/i386/config.common.i386
+END
+config.flavour.chromeos-intel-menlow
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/i386/config.flavour.chromeos-intel-menlow
+END
+config.flavour.chromium-i386
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/i386/config.flavour.chromium-i386
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel
+END
+config.flavour.chromeos-qsd8650a-st1_5
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel/config.flavour.chromeos-qsd8650a-st1_5
+END
+config.flavour.chromeos-qsd8660-st1_5
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel/config.flavour.chromeos-qsd8660-st1_5
+END
+config.flavour.chromeos-tegra2
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel/config.flavour.chromeos-tegra2
+END
+config.common.armel
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel/config.common.armel
+END
+config.flavour.chromeos-voguev210
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel/config.flavour.chromeos-voguev210
+END
+config.flavour.chromeos-arm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel/config.flavour.chromeos-arm
+END
+config.flavour.chromeos-st1q-qrdc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/chromeos/config/armel/config.flavour.chromeos-st1q-qrdc
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx
+END
+mpc5200_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc5200_simple.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/Kconfig
+END
+lite5200_pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/lite5200_pm.c
+END
+mpc52xx_pic.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_pic.c
+END
+mpc52xx_pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_pci.c
+END
+mpc52xx_pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_pm.c
+END
+lite5200.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/lite5200.c
+END
+mpc52xx_lpbfifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_lpbfifo.c
+END
+lite5200_sleep.S
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/lite5200_sleep.S
+END
+mpc52xx_sleep.S
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_sleep.S
+END
+mpc52xx_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_common.c
+END
+efika.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/efika.c
+END
+mpc52xx_gpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_gpt.c
+END
+mpc52xx_gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/mpc52xx_gpio.c
+END
+media5200.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/media5200.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/powerpc/platforms/52xx/Makefile
+END

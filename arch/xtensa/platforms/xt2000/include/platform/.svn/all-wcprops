@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/xtensa/platforms/xt2000/include/platform
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/xtensa/platforms/xt2000/include/platform/hardware.h
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/xtensa/platforms/xt2000/include/platform/serial.h
+END

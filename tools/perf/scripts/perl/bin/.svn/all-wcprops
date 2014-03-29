@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin
+END
+check-perf-trace-record
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/check-perf-trace-record
+END
+workqueue-stats-record
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/workqueue-stats-record
+END
+wakeup-latency-report
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/wakeup-latency-report
+END
+rw-by-pid-report
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/rw-by-pid-report
+END
+rwtop-report
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/rwtop-report
+END
+wakeup-latency-record
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/wakeup-latency-record
+END
+rw-by-file-report
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/rw-by-file-report
+END
+rw-by-pid-record
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/rw-by-pid-record
+END
+rwtop-record
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/rwtop-record
+END
+failed-syscalls-report
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/failed-syscalls-report
+END
+rw-by-file-record
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/rw-by-file-record
+END
+failed-syscalls-record
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/failed-syscalls-record
+END
+workqueue-stats-report
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/bin/workqueue-stats-report
+END

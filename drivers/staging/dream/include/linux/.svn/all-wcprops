@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/dream/include/linux
+END
+msm_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/dream/include/linux/msm_audio.h
+END
+android_pmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/dream/include/linux/android_pmem.h
+END
+gpio_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/dream/include/linux/gpio_event.h
+END
+wakelock.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/dream/include/linux/wakelock.h
+END
+msm_rpcrouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/dream/include/linux/msm_rpcrouter.h
+END
+msm_adsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/dream/include/linux/msm_adsp.h
+END

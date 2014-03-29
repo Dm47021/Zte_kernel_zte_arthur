@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-ecovec24/mach
+END
+romimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-ecovec24/mach/romimage.h
+END
+partner-jet-setup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/sh/include/mach-ecovec24/mach/partner-jet-setup.txt
+END

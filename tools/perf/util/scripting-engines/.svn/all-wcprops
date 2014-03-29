@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/util/scripting-engines
+END
+trace-event-python.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/util/scripting-engines/trace-event-python.c
+END
+trace-event-perl.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/util/scripting-engines/trace-event-perl.c
+END

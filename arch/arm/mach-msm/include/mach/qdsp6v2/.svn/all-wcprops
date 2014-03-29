@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/arm/mach-msm/include/mach/qdsp6v2
+END
+q6voice.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/arm/mach-msm/include/mach/qdsp6v2/q6voice.h
+END
+audio_dev_ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/arm/mach-msm/include/mach/qdsp6v2/audio_dev_ctl.h
+END
+apr.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/arm/mach-msm/include/mach/qdsp6v2/apr.h
+END
+q6afe.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/arm/mach-msm/include/mach/qdsp6v2/q6afe.h
+END
+apr_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/arm/mach-msm/include/mach/qdsp6v2/apr_audio.h
+END
+q6asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/arm/mach-msm/include/mach/qdsp6v2/q6asm.h
+END

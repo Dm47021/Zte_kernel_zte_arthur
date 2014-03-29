@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs
+END
+ser_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/ser_defs.h
+END
+bif_slave_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/bif_slave_defs.h
+END
+irq_nmi_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/irq_nmi_defs.h
+END
+extmem_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/extmem_defs.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/dma.h
+END
+dma_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/dma_defs.h
+END
+marb_bp_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/marb_bp_defs.h
+END
+rt_trace_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/rt_trace_defs.h
+END
+config_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/config_defs.h
+END
+ata_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/ata_defs.h
+END
+cpu_vect.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/cpu_vect.h
+END
+bif_core_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/bif_core_defs.h
+END
+strcop.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/strcop.h
+END
+strcop_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/strcop_defs.h
+END
+reg_rdwr.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/reg_rdwr.h
+END
+sser_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/sser_defs.h
+END
+eth_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/eth_defs.h
+END
+marb_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/marb_defs.h
+END
+bif_dma_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/bif_dma_defs.h
+END
+supp_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/supp_reg.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/Makefile
+END

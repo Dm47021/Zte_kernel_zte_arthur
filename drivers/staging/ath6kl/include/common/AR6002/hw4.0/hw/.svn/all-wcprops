@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw
+END
+gpio_athr_wlan_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/gpio_athr_wlan_reg.h
+END
+gpio_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/gpio_reg.h
+END
+bb_lc_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/bb_lc_reg.h
+END
+apb_athr_wlan_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/apb_athr_wlan_map.h
+END
+mbox_host_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/mbox_host_reg.h
+END
+apb_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/apb_map.h
+END
+mbox_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/mbox_reg.h
+END
+vmc_wlan_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/vmc_wlan_reg.h
+END
+mac_pcu_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/mac_pcu_reg.h
+END
+efuse_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/efuse_reg.h
+END
+rtc_wlan_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/rtc_wlan_reg.h
+END
+si_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/si_reg.h
+END
+uart_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/uart_reg.h
+END
+umbox_wlan_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/umbox_wlan_reg.h
+END
+analog_intf_athr_wlan_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/analog_intf_athr_wlan_reg.h
+END
+mac_dma_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/mac_dma_reg.h
+END
+analog_intf_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/analog_intf_reg.h
+END
+rdma_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/rdma_reg.h
+END
+mbox_wlan_host_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/mbox_wlan_host_reg.h
+END
+vmc_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/vmc_reg.h
+END
+mbox_wlan_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/mbox_wlan_reg.h
+END
+rtc_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/rtc_reg.h
+END
+umbox_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/umbox_reg.h
+END
+analog_intf_ares_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw4.0/hw/analog_intf_ares_reg.h
+END

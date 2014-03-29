@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm
+END
+reg_map_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/reg_map_asm.h
+END
+ddr2_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/ddr2_defs_asm.h
+END
+gio_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/gio_defs_asm.h
+END
+pinmux_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/pinmux_defs_asm.h
+END
+timer_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/timer_defs_asm.h
+END
+clkgen_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/clkgen_defs_asm.h
+END
+pio_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/asm/pio_defs_asm.h
+END

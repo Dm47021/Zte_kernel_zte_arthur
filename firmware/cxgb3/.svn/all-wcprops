@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/cxgb3
+END
+ael2020_twx_edc.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/cxgb3/ael2020_twx_edc.bin.ihex
+END
+ael2005_opt_edc.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/cxgb3/ael2005_opt_edc.bin.ihex
+END
+ael2005_twx_edc.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/cxgb3/ael2005_twx_edc.bin.ihex
+END
+t3b_psram-1.1.0.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/cxgb3/t3b_psram-1.1.0.bin.ihex
+END
+t3c_psram-1.1.0.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/cxgb3/t3c_psram-1.1.0.bin.ihex
+END
+t3fw-7.4.0.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/firmware/cxgb3/t3fw-7.4.0.bin.ihex
+END

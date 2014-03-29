@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw
+END
+gpio_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/gpio_reg.h
+END
+analog_intf_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/analog_intf_reg.h
+END
+analog_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/analog_reg.h
+END
+apb_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/apb_map.h
+END
+mbox_host_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/mbox_host_reg.h
+END
+mbox_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/mbox_reg.h
+END
+vmc_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/vmc_reg.h
+END
+rtc_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/rtc_reg.h
+END
+si_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/si_reg.h
+END
+uart_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/staging/ath6kl/include/common/AR6002/hw2.0/hw/uart_reg.h
+END

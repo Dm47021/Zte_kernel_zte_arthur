@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/scheduler
+END
+vid_frame_scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/scheduler/vid_frame_scheduler.h
+END
+vid_frame_scheduler_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/scheduler/vid_frame_scheduler_utils.h
+END
+vid_frame_scheduler_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/scheduler/vid_frame_scheduler_api.c
+END
+vid_frame_scheduler_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/scheduler/vid_frame_scheduler_api.h
+END
+vid_frame_scheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/scheduler/vid_frame_scheduler.c
+END
+vid_frame_scheduler_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/drivers/misc/video_core/720p/scheduler/vid_frame_scheduler_utils.c
+END

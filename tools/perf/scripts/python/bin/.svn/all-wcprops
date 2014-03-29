@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin
+END
+syscall-counts-record
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/syscall-counts-record
+END
+sctop-report
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/sctop-report
+END
+syscall-counts-by-pid-record
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/syscall-counts-by-pid-record
+END
+sctop-record
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/sctop-record
+END
+failed-syscalls-by-pid-report
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/failed-syscalls-by-pid-report
+END
+syscall-counts-report
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/syscall-counts-report
+END
+failed-syscalls-by-pid-record
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/failed-syscalls-by-pid-record
+END
+syscall-counts-by-pid-report
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/python/bin/syscall-counts-by-pid-report
+END

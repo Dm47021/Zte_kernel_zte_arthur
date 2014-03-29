@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace
+END
+Context.pm
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Context.pm
+END
+Core.pm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Core.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/tools/perf/scripts/perl/Perf-Trace-Util/lib/Perf/Trace/Util.pm
+END

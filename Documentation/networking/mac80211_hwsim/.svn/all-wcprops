@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/networking/mac80211_hwsim
+END
+hostapd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/networking/mac80211_hwsim/hostapd.conf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/networking/mac80211_hwsim/README
+END
+wpa_supplicant.conf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/7x30-Gingerbread/!svn/ver/13883/labels/N860V1.0.0B20_boot/kernel/Documentation/networking/mac80211_hwsim/wpa_supplicant.conf
+END

@@ -1,0 +1,131 @@
+10
+
+dir
+16071
+http://10.67.16.51/svn/7x30-Gingerbread/labels/N860V1.0.0B20_boot/kernel/arch
+http://10.67.16.51/svn/7x30-Gingerbread
+
+
+
+2011-12-20T06:34:59.974558Z
+12399
+weilanying
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9509e710-140d-452c-90f7-18cb08651ebc
+
+arm
+dir
+
+powerpc
+dir
+
+Kconfig
+file
+
+
+
+
+2012-05-02T06:25:03.692291Z
+3f0b1f8480f88abe9a6e914ff7add888
+2011-02-15T01:07:09.857492Z
+84
+caozhiyuan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4131
+
+parisc
+dir
+
+um
+dir
+
+m32r
+dir
+
+m68k
+dir
+
+alpha
+dir
+
+x86
+dir
+
+microblaze
+dir
+
+frv
+dir
+
+avr32
+dir
+
+mn10300
+dir
+
+s390
+dir
+
+cris
+dir
+
+m68knommu
+dir
+
+h8300
+dir
+
+xtensa
+dir
+
+ia64
+dir
+
+mips
+dir
+
+sparc
+dir
+
+blackfin
+dir
+
+sh
+dir
+
+score
+dir
+
